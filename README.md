@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 Just to show difference part 1. 
 
 ## How to contribute
+
+how wil you contribute? show difference part 2. 
+
+And final add to put the file as a staged and working file. 
