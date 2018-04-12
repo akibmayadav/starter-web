@@ -16,3 +16,6 @@ Just to show difference part 1.
 how wil you contribute? show difference part 2. 
 
 And final add to put the file as a staged and working file. 
+
+###COPYRIGHT
+this is a copyright notice. 
